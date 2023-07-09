@@ -1,0 +1,7 @@
+v1.0.0
+
+1) A simple Password Generator program was created with
+	a) 2 functions - i) main() ii) genPassword() 
+	b) Lists for the collection of items 
+	c) if else conditions to execute certain statements depending upon the choice of user
+	d) string, random modules to use some of the functions like random.choice()

@@ -2,8 +2,8 @@
 from GeneratePassword import *
 
 def main():
+    print("\n!!!Welcome User!!!")
     while True: #While loop is used to not close the program unless the user enters option 2
-        print("\n!!!Welcome User!!!")
         print("\nDo you need to create a random password? 1) Yes 2) No")
         choice = int(input("Enter an option..."))
         if choice == 1:
